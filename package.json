@@ -1,5 +1,5 @@
 {
-  "name": "js-debug",
+  "name": "@streetbyters/js-debug",
   "version": "0.1.0",
   "description": "Simple, practical Javascript|NodeJS Debug Logging",
   "main": "index.js",

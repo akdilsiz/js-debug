@@ -1,6 +1,6 @@
 {
-  "name": "js-debug",
-  "version": "0.1.0",
+  "name": "@streetbyters/js-debug",
+  "version": "0.1.1",
   "description": "Simple, practical Javascript|NodeJS Debug Logging",
   "main": "index.js",
   "type": "module",

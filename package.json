@@ -1,0 +1,47 @@
+{
+  "name": "js-debug",
+  "version": "0.1.0",
+  "description": "Simple, practical Javascript|NodeJS Debug Logging",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint",
+    "lint:fix": "eslint --fix",
+    "format": "prettier --write \"**/*.{js,ts,md,json}\" --ignore-path .prettierignore",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akdilsiz/js-debug.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "debug",
+    "logging"
+  ],
+  "author": "Abdulkadir Dilsiz <https://github.com/akdilsiz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akdilsiz/js-debug/issues"
+  },
+  "homepage": "https://github.com/akdilsiz/js-debug#readme",
+  "packageManager": "pnpm@10.19.0",
+  "dependencies": {
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.38.0",
+    "eslint": "^9.38.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "globals": "^16.4.0",
+    "prettier": "^3.6.2"
+  },
+  "engines": {
+    "node": ">= 20.19.5",
+    "npm": ">= 9.6.7",
+    "yarn": ">= 1.22.19",
+    "pnpm": ">= 10.18.0"
+  }
+}

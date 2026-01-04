@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akdilsiz/js-debug.git"
+    "url": "git+https://github.com/streetbyters/js-debug.git"
   },
   "keywords": [
     "javascript",
@@ -20,12 +20,12 @@
     "debug",
     "logging"
   ],
-  "author": "Abdulkadir Dilsiz <https://github.com/akdilsiz>",
+  "author": "Abdulkadir Dilsiz <https://github.com/streetbyters>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akdilsiz/js-debug/issues"
+    "url": "https://github.com/streetbyters/js-debug/issues"
   },
-  "homepage": "https://github.com/akdilsiz/js-debug#readme",
+  "homepage": "https://github.com/streetbyters/js-debug#readme",
   "packageManager": "pnpm@10.19.0",
   "dependencies": {
     "moment": "^2.30.1"

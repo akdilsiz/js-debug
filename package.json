@@ -20,7 +20,7 @@
     "debug",
     "logging"
   ],
-  "author": "Abdulkadir Dilsiz <https://github.com/streetbyters>",
+  "author": "Streetbyters Community <https://github.com/streetbyters>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/streetbyters/js-debug/issues"

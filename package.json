@@ -1,6 +1,6 @@
 {
   "name": "@streetbyters/js-debug",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Simple, practical Javascript|NodeJS Debug Logging",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,7 @@
     "lint": "eslint",
     "lint:fix": "eslint --fix",
     "format": "prettier --write \"**/*.{js,ts,md,json}\" --ignore-path .prettierignore",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
     "url": "https://github.com/streetbyters/js-debug/issues"
   },
   "homepage": "https://github.com/streetbyters/js-debug#readme",
-  "packageManager": "pnpm@10.27.0",
+  "packageManager": "pnpm@10.28.0",
   "dependencies": {
     "moment": "^2.30.1"
   },

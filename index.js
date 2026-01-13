@@ -289,7 +289,7 @@ function _debugF(debugs) {
   )
 }
 
-function log(logs) {
+function log(...logs) {
   if (!logs || !logs.length || !logs.filter((v) => !!v).length) {
     _warnF('Logs are empty!!')
     return

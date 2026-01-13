@@ -26,7 +26,7 @@
     "url": "https://github.com/streetbyters/js-debug/issues"
   },
   "homepage": "https://github.com/streetbyters/js-debug#readme",
-  "packageManager": "pnpm@10.27.0",
+  "packageManager": "pnpm@10.28.0",
   "dependencies": {
     "moment": "^2.30.1"
   },
